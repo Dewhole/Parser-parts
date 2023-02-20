@@ -1,0 +1,79 @@
+
+(Equivalent Parts)  https://store.konecranes.com/cpc/en/Equivalent-Parts/c/58748049
+(SMT-Winch Parts)   https://store.konecranes.com/cpc/en/Spare-Parts/Winch-parts/c/53929255
+(PDW-Winch parts)   https://store.konecranes.com/cpc/en/Spare-Parts/Winch-parts/c/SP00004279
+(SM-Winch parts)    https://store.konecranes.com/cpc/en/Spare-Parts/Winch-parts/c/SP00004278
+(DXW-Winch parts)   https://store.konecranes.com/cpc/en/Spare-Parts/Winch-parts/c/SP00004280
+(CXT)               https://store.konecranes.com/cpc/en/Spare-Parts/Wire-rope-hoist-parts/c/53929258
+(DWMAG)
+	https://store.konecranes.com/cpc/en/Spare-Parts/Wire-rope-hoist-parts/DMR/Mechanical/F-DMR/CO-Axial-3/c/57882533
+	https://store.konecranes.com/cpc/en/Spare-Parts/Wire-rope-hoist-parts/DMR/Mechanical/F-DMR/CO-Axial-5/c/57882534
+	https://store.konecranes.com/cpc/en/Spare-Parts/Wire-rope-hoist-parts/DMR/Mechanical/F-DMR/CO-Axial-10/c/57882535
+	https://store.konecranes.com/cpc/en/Spare-Parts/Wire-rope-hoist-parts/DMR/Mechanical/F-DMR/CO-Axial-16/c/57882536
+	https://store.konecranes.com/cpc/en/Spare-Parts/Wire-rope-hoist-parts/DMR/Mechanical/F-DMR/CO-Axial-20/c/57882537
+	https://store.konecranes.com/cpc/en/Spare-Parts/Wire-rope-hoist-parts/DMR/Mechanical/C-Design/C-Design%C2%A03/c/57882538
+	https://store.konecranes.com/cpc/en/Spare-Parts/Wire-rope-hoist-parts/DMR/Mechanical/C-Design/C-Design%C2%A05/c/57882539
+	https://store.konecranes.com/cpc/en/Spare-Parts/Wire-rope-hoist-parts/DMR/Mechanical/C-Design/C-Design%C2%A010/c/57882541
+	https://store.konecranes.com/cpc/en/Spare-Parts/Wire-rope-hoist-parts/DMR/Mechanical/C-Design/C-Design%C2%A016/c/57882542
+	https://store.konecranes.com/cpc/en/Spare-Parts/Wire-rope-hoist-parts/DMR/Mechanical/C-Design/C-Design%C2%A020/c/57882543
+	https://store.konecranes.com/cpc/en/Spare-Parts/Wire-rope-hoist-parts/DMR/Mechanical/EK-DMR/EK-DMR%C2%A03/c/57882548
+	https://store.konecranes.com/cpc/en/Spare-Parts/Wire-rope-hoist-parts/DMR/Mechanical/EK-DMR/EK-DMR%C2%A05/c/57882549
+	https://store.konecranes.com/cpc/en/Spare-Parts/Wire-rope-hoist-parts/DMR/Mechanical/EK-DMR/EK-DMR%C2%A016/c/57882551
+	https://store.konecranes.com/cpc/en/Spare-Parts/Wire-rope-hoist-parts/DMR/Mechanical/EK-DMR/EK-DMR%C2%A010/c/57882550
+	https://store.konecranes.com/cpc/en/Spare-Parts/Wire-rope-hoist-parts/DMR/Mechanical/EZ-DMR/EZ-DMR%C2%A05/c/57882559
+	https://store.konecranes.com/cpc/en/Spare-Parts/Wire-rope-hoist-parts/DMR/Mechanical/EZ-DMR/EZ-DMR%C2%A010/c/57882560
+	https://store.konecranes.com/cpc/en/Spare-Parts/Wire-rope-hoist-parts/DMR/Mechanical/EZ-DMR/EZ-DMR%C2%A016/c/57882561
+	https://store.konecranes.com/cpc/en/Spare-Parts/Wire-rope-hoist-parts/DMR/Mechanical/EZ-DMR/EZ-DMR%C2%A020/c/57882562
+	https://store.konecranes.com/cpc/en/Spare-Parts/Wire-rope-hoist-parts/DMR/Mechanical/EZ-DMR%C2%A0FACELIFT/EZ-DMR%C2%A0FACELIFT%C2%A05/c/57882563
+	https://store.konecranes.com/cpc/en/Spare-Parts/Wire-rope-hoist-parts/DMR/Mechanical/EZ-DMR%C2%A0FACELIFT/EZ-DMR-FACELIFT%C2%A010/c/57882564
+	https://store.konecranes.com/cpc/en/Spare-Parts/Wire-rope-hoist-parts/DMR/Mechanical/EZ-DMR%C2%A0FACELIFT/EZ-DMR-FACELIFT%C2%A016/c/57882565
+	https://store.konecranes.com/cpc/en/Spare-Parts/Wire-rope-hoist-parts/DMR/Mechanical/EZ-DMR%C2%A0FACELIFT/EZ-DMR-FACELIFT%C2%A020/c/57882566
+	https://store.konecranes.com/cpc/en/Spare-Parts/Wire-rope-hoist-parts/DMR/Mechanical/EU-DMR-CO-Axial/EU-DMR-CO-Axial%C2%A03/c/57882567
+	https://store.konecranes.com/cpc/en/Spare-Parts/Wire-rope-hoist-parts/DMR/Mechanical/EU-DMR-CO-Axial/EU-DMR-CO-Axial%C2%A05/c/57882568
+	https://store.konecranes.com/cpc/en/Spare-Parts/Wire-rope-hoist-parts/DMR/Mechanical/EU-DMR-CO-Axial/EU-DMR-CO-Axial%C2%A010/c/57882569
+	https://store.konecranes.com/cpc/en/Spare-Parts/Wire-rope-hoist-parts/DMR/Mechanical/EU-DMR-CO-Axial/EU-DMR-CO-Axial%C2%A016/c/57882570
+(CLX)              	https://store.konecranes.com/cpc/en/Spare-Parts/Chain-Hoists-parts/Konecranes-CLX-Chain-hoist-parts/c/53929336
+(NX)			https://store.konecranes.com/cpc/en/Spare-Parts/Chain-Hoists-parts/Konecranes-XN-Chain-hoist-parts/c/53929337
+(Travelling Inverters)	https://store.konecranes.com/cpc/en/Spare-Parts/Common-crane-components-and-parts/Inverter-parts/c/55379540
+(Hoisting Inverters)    https://store.konecranes.com/cpc/en/Spare-Parts/Common-crane-components-and-parts/Inverter-parts/c/55379541
+(Network Braking)	https://store.konecranes.com/cpc/en/Spare-Parts/Common-crane-components-and-parts/Inverter-parts/c/55379542
+(Inverter spare parts)	https://store.konecranes.com/cpc/en/Spare-Parts/Common-crane-components-and-parts/Inverter-parts/c/55379543
+(Upgrade kits)		https://store.konecranes.com/cpc/en/Spare-Parts/Common-crane-components-and-parts/Inverter-parts/c/53928345
+(Common electrical parts)
+	https://store.konecranes.com/cpc/en/Spare-Parts/Common-crane-components-and-parts/Common-electrical-parts/Connector-parts/c/53942724
+	https://store.konecranes.com/cpc/en/Spare-Parts/Common-crane-components-and-parts/Common-electrical-parts/Contactors/Contactor/c/55080318
+	https://store.konecranes.com/cpc/en/Spare-Parts/Common-crane-components-and-parts/Common-electrical-parts/Contactors/Auxiliary-Contactor/c/55080319
+	https://store.konecranes.com/cpc/en/Spare-Parts/Common-crane-components-and-parts/Common-electrical-parts/Common-electrical-components/c/53928343
+	https://store.konecranes.com/cpc/en/Spare-Parts/Common-crane-components-and-parts/Common-electrical-parts/Cables/c/53928344
+	https://store.konecranes.com/cpc/en/Spare-Parts/Common-crane-components-and-parts/Common-electrical-parts/Power-supply-parts/c/53928346
+	https://store.konecranes.com/cpc/en/Spare-Parts/Common-crane-components-and-parts/Common-electrical-parts/Plug-set/c/53928348
+(Common mechanical parts)
+	https://store.konecranes.com/cpc/en/Spare-Parts/Common-crane-components-and-parts/Common-mechanical-parts/Brake-repair-sets-%28CXT-hoist%29/c/53928438
+	https://store.konecranes.com/cpc/en/Spare-Parts/Common-crane-components-and-parts/Common-mechanical-parts/Brake-repair-sets-%28XL-hoist%29/c/53928436
+	https://store.konecranes.com/cpc/en/Spare-Parts/Common-crane-components-and-parts/Common-mechanical-parts/Festoon-parts/c/55517242
+	https://store.konecranes.com/cpc/en/Spare-Parts/Common-crane-components-and-parts/Common-mechanical-parts/Couplings/c/53928440
+	https://store.konecranes.com/cpc/en/Spare-Parts/Common-crane-components-and-parts/Common-mechanical-parts/Buffers/c/53928442
+	https://store.konecranes.com/cpc/en/Spare-Parts/Common-crane-components-and-parts/Common-mechanical-parts/Profile-parts/c/53928443
+(Konecranes rope guide)
+	https://store.konecranes.com/cpc/en/Spare-Parts/Common-crane-components-and-parts/Konecranes-rope-guide/Konecranes-rope-guide-for-Konecranes/c/53928381
+	https://store.konecranes.com/cpc/en/Spare-Parts/Common-crane-components-and-parts/Konecranes-rope-guide/Konecranes-rope-guide-for-Abus/c/53928386
+(ROPES)			https://store.konecranes.com/cpc/en/Spare-Parts/Common-crane-components-and-parts/Ropes/Precut-ropes/c/53928437
+(Hook Latches) 		https://store.konecranes.com/cpc/en/Spare-Parts/Common-crane-components-and-parts/Hook-Latches/c/55083477
+(Pendants)
+	https://store.konecranes.com/cpc/en/Spare-Parts/Common-crane-components-and-parts/Controls/Complete-pendants/CLX-Pendants/c/53955041
+	https://store.konecranes.com/cpc/en/Spare-Parts/Common-crane-components-and-parts/Controls/XACA-pendant-parts/c/53929379
+	https://store.konecranes.com/cpc/en/Spare-Parts/Common-crane-components-and-parts/Controls/XACB-pendant-parts/c/53929380
+	https://store.konecranes.com/cpc/en/Spare-Parts/Common-crane-components-and-parts/Controls/PBQ-pendant-parts/c/53929381
+	https://store.konecranes.com/cpc/en/Spare-Parts/Common-crane-components-and-parts/Controls/PKQ-pendant-parts/c/53929382
+	https://store.konecranes.com/cpc/en/Spare-Parts/Common-crane-components-and-parts/Controls/PBX-and-Pendax-pendant-parts/c/53929383
+	https://store.konecranes.com/cpc/en/Spare-Parts/Common-crane-components-and-parts/Controls/Other-pendant-parts/c/53929384
+	https://store.konecranes.com/cpc/en/Spare-Parts/Common-crane-components-and-parts/Controls/Demag-Pendant-Control-DSK/c/spare_parts_dsk
+	https://store.konecranes.com/cpc/en/Spare-Parts/Common-crane-components-and-parts/Controls/Demag-Pendant-Control-DST/c/spare_parts_dst
+	https://store.konecranes.com/cpc/en/Spare-Parts/Common-crane-components-and-parts/Controls/Demag-Pendant-Control-DSE/c/spare_parts_dse
+	https://store.konecranes.com/cpc/en/Spare-Parts/Common-crane-components-and-parts/Controls/Remote-operating-station/c/53987597
+	https://store.konecranes.com/cpc/en/Spare-Parts/Chain-Hoists-parts/Konecranes-CLX-Chain-hoist-parts/Remoc-transmitter-parts/c/53929348
+	https://store.konecranes.com/cpc/en/Spare-Parts/Chain-Hoists-parts/Konecranes-CLX-Chain-hoist-parts/Remox-transmitter-parts/c/53929349
+	https://store.konecranes.com/cpc/en/Spare-Parts/Chain-Hoists-parts/Konecranes-CLX-Chain-hoist-parts/RMJ-transmitter-parts/c/53929351
+	https://store.konecranes.com/cpc/en/Spare-Parts/Chain-Hoists-parts/Konecranes-CLX-Chain-hoist-parts/Datek-transmitter-parts/c/53929350
+	https://store.konecranes.com/cpc/en/Spare-Parts/Chain-Hoists-parts/Konecranes-CLX-Chain-hoist-parts/Spectrum-transmitter-parts/c/53929352
+	https://store.konecranes.com/cpc/en/Spare-Parts/Chain-Hoists-parts/Konecranes-CLX-Chain-hoist-parts/Tele-Radio-transmitter-parts/c/53929353
